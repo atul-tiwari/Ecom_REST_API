@@ -1,0 +1,18 @@
+# E -Commerces Product service 
+
+the Output Format will be JSON fo all responses
+
+'''json
+{
+    "name":"Name of person"
+    "brand_name": "Name of brand"
+    "regular_price_value":"Normal price"
+    "offer_price_value":"Descounted price"
+    "currency":"currency Code"
+    "classification_l1":"Category of the product Level 1"
+    "classification_l2":"Category of the product Level 2"
+    "classification_l3":"Category of the product Level 3"
+    "classification_l4":"Category of the product Level 4"
+    "image_url":"URl of the image of the product"
+}
+'''
